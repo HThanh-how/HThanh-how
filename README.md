@@ -1,10 +1,34 @@
-# <span style="color: #0F4C81">PHAM HUY THANH</span> 👨💻
-
-🚀 **Software Engineer** | 🏢 **Data Center & Colocation** | 🛠️ **Backend Specialist** | 🖥️ **Infrastructure Engineer**
-
+<!-- Modern Animated Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0F4C81&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Thanh;Infrastructure+Engineer+%7C+Data+Center+Specialist;Proxmox+%7C+Colocation+%7C+Network+Architecture;Backend+Developer+%7C+Go+%7C+AWS+%7C+Cloudflare" alt="Header animation">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,100:667EEA&height=220&section=header&text=Pham%20Huy%20Thanh&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Infrastructure%20Engineer%20%7C%20Backend%20Developer&descSize=18&descColor=ffffffaa&descAlignY=55" width="100%" alt="Header Banner"/>
 </div>
+
+<!-- Animated GIF -->
+<div align="center">
+  <img src="Art Running GIF.gif" alt="Running Animation" height="160"/>
+</div>
+
+<!-- Modern Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Thanh;Infrastructure+Engineer+%F0%9F%8F%A2;Backend+Developer+%F0%9F%92%BB;Data+Center+Specialist+%F0%9F%96%A5%EF%B8%8F;Building+Amazing+Things+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<!-- CV Download Badge -->
+<div align="center">
+  <a href="https://github.com/HThanh-how/CV/releases/latest/download/Pham_Huy_Thanh_Resume.pdf">
+    <img src="https://img.shields.io/badge/📄_Download_My_CV-PDF-0F4C81?style=for-the-badge&logoColor=white" alt="Download CV"/>
+  </a>
+  <a href="mailto:phthanh.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="http://phthanh.dev">
+    <img src="https://img.shields.io/badge/Website-0F4C81?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+</div>
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/HThanh-how/HThanh-how/output/snake.svg" alt="Snake animation" />
 
@@ -125,12 +149,19 @@
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HThanh-how&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HThanh-how&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HThanh-how&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&cache_seconds=86400" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HThanh-how&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&cache_seconds=86400" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HThanh-how&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<!-- GitHub Profile Summary Cards -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HThanh-how&theme=tokyonight" alt="Profile Details" />
 </div>
 
 ---
@@ -147,5 +178,6 @@
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </p>
-  </a>
-</p>
+
+<!-- Waving Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:0F4C81&height=120&section=footer" width="100%" alt="Footer"/>
