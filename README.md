@@ -1,11 +1,11 @@
-<!-- Modern Animated Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,100:667EEA&height=220&section=header&text=Pham%20Huy%20Thanh&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Infrastructure%20Engineer%20%7C%20Backend%20Developer&descSize=18&descColor=ffffffaa&descAlignY=55" width="100%" alt="Header Banner"/>
-</div>
+# <span style="color: #0F4C81">PHAM HUY THANH</span> 👨💻
+
+🚀 **Software Engineer** | 🏢 **Data Center & Colocation** | 🛠️ **Backend Specialist** | 🖥️ **Infrastructure Engineer**
+
 
 <!-- Animated GIF -->
 <div align="center">
-  <img src="Art Running GIF.gif" alt="Running Animation" height="160"/>
+  <img src="Art Running GIF.gif" alt="Running Animation" width="100%"/>
 </div>
 
 <!-- Modern Typing Animation -->
@@ -149,8 +149,9 @@
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HThanh-how&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&cache_seconds=86400" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HThanh-how&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&cache_seconds=86400" height="150" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HThanh-how&theme=tokyonight" height="150" alt="stats graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HThanh-how&theme=tokyonight" height="150" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HThanh-how&theme=tokyonight" height="150" alt="commit languages graph" />
 </div>
 
 <div align="center">
