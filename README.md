@@ -1,184 +1,120 @@
-# <span style="color: #0F4C81">PHAM HUY THANH</span> 👨💻
-
-🚀 **Software Engineer** | 🏢 **Data Center & Colocation** | 🛠️ **Backend Specialist** | 🖥️ **Infrastructure Engineer**
-
-
-<!-- Animated GIF -->
 <div align="center">
-  <img src="Art Running GIF.gif" alt="Running Animation" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:4F46E5,100:F97316&height=210&section=header&text=PHAM%20HUY%20THANH&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Backend%20%C2%B7%20Infrastructure%20%C2%B7%20Cloud&descSize=17&descAlignY=57" width="100%" alt="Pham Huy Thanh — Backend, Infrastructure and Cloud" />
 </div>
 
-<!-- Modern Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Thanh;Infrastructure+Engineer+%F0%9F%8F%A2;Backend+Developer+%F0%9F%92%BB;Data+Center+Specialist+%F0%9F%96%A5%EF%B8%8F;Building+Amazing+Things+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="Art%20Running%20GIF.gif" width="100%" alt="A runner crossing a futuristic city at sunset" />
 </div>
 
-<br/>
-
-<!-- CV Download Badge -->
 <div align="center">
-  <a href="https://github.com/HThanh-how/CV/releases/latest/download/Pham_Huy_Thanh_Resume.pdf">
-    <img src="https://img.shields.io/badge/📄_Download_My_CV-PDF-0F4C81?style=for-the-badge&logoColor=white" alt="Download CV"/>
-  </a>
-  <a href="mailto:phthanh.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="http://phthanh.dev">
-    <img src="https://img.shields.io/badge/Website-0F4C81?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=760&lines=Building+reliable+systems+that+scale;Backend+engineering+%C3%97+infrastructure;From+API+to+rack%2C+I+make+systems+run" alt="Animated introduction" />
 </div>
 
-<br/>
+<div align="center">
+  <a href="https://phthanh.dev"><img src="https://img.shields.io/badge/Website-phthanh.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:phthanh.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/HThanh-how/CV/releases/latest/download/Pham_Huy_Thanh_Resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-View_PDF-4F46E5?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View résumé" /></a>
+  <img src="https://komarev.com/ghpvc/?username=HThanh-how&style=for-the-badge&color=F97316&label=PROFILE+VIEWS" alt="Profile views" />
+</div>
 
-<img src="https://raw.githubusercontent.com/HThanh-how/HThanh-how/output/snake.svg" alt="Snake animation" />
+## Hello, I'm Thanh
 
----
+I build dependable backend platforms and the infrastructure beneath them. My sweet spot is where software meets operations: distributed systems, data-center infrastructure, networking, storage, observability, and automation.
 
-## 🎯 **About Me**
-```diff
-+ 💡 Passionate about building high-performance distributed systems
-+ 🏢 Experienced in IDC, Colocation & Data Center infrastructure
-! 🌱 Deep diving into cloud architecture and system design
-# 📈 Enjoy system optimization and solving scaling challenges
-# 🔧 Hardware setup, rack mounting, network cabling & power management
+```text
+Focus     Backend systems · Platform engineering · Cloud & data center
+Building  Low-latency services · resilient storage · automated infrastructure
+Learning  Distributed architecture · system design · reliability at scale
+Mindset   Measure first · automate repetition · keep operations boring
 ```
 
-## 🛠 **Tech Stack**
-
-### **Programming Languages**
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-### **Infrastructure & Virtualization**
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware_ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![XCP--ng](https://img.shields.io/badge/XCP--ng-00AEC7?style=for-the-badge&logo=xen&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-### **Data Center & Hardware**
-![Dell](https://img.shields.io/badge/Dell_PowerEdge-007DB8?style=for-the-badge&logo=dell&logoColor=white)
-![HP](https://img.shields.io/badge/HPE_ProLiant-0096D6?style=for-the-badge&logo=hp&logoColor=white)
-![Supermicro](https://img.shields.io/badge/Supermicro-0066CC?style=for-the-badge&logoColor=white)
-![Intel](https://img.shields.io/badge/Intel_Xeon-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![IPMI](https://img.shields.io/badge/IPMI/iDRAC-333333?style=for-the-badge&logoColor=white)
-![Rack_Mount](https://img.shields.io/badge/Rack_Mounting-2C3E50?style=for-the-badge&logoColor=white)
-![PDU](https://img.shields.io/badge/PDU_&_UPS-E74C3C?style=for-the-badge&logoColor=white)
-![Colocation](https://img.shields.io/badge/IDC_Colocation-1ABC9C?style=for-the-badge&logoColor=white)
-
-### **Storage & Backup**
-![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white)
-![Ceph](https://img.shields.io/badge/Ceph-EF5C55?style=for-the-badge&logo=ceph&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
-![ZFS](https://img.shields.io/badge/ZFS-2A667F?style=for-the-badge&logo=openzfs&logoColor=white)
-![Veeam](https://img.shields.io/badge/Veeam-00B336?style=for-the-badge&logo=veeam&logoColor=white)
-![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)
-
-### **Networking & Security**
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
-![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white)
-![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
-![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)
-![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
-![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
-![HAProxy](https://img.shields.io/badge/HAProxy-106DA9?style=for-the-badge&logo=haproxy&logoColor=white)
-![Cloudflare Tunnel](https://img.shields.io/badge/CF_Tunnel-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Pi--hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pihole&logoColor=white)
-![AdGuard](https://img.shields.io/badge/AdGuard-68BC71?style=for-the-badge&logo=adguard&logoColor=white)
-
-### **Monitoring & Observability**
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC2936?style=for-the-badge&logo=zabbix&logoColor=white)
-![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-5CDD8B?style=for-the-badge&logo=upptime&logoColor=white)
-![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
-
-### **Databases & Tools**
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFD43B?style=for-the-badge&logo=duckdb&logoColor=black)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-## 💼 **Experience**
-
-### **Backend Engineer**  (2024-Present)
-```diff
-# Tech Stack
-+ Built high-frequency order processing system with low response time
-+ Expertly engineered a cutting-edge data storage and backup solution for the company, ensuring secure, scalable, and resilient data management.
-! Developed API gateway reducing platform consumption by 85%
-#   Go | Redis | AWS | Cloudflare | Minio | Swagger | NGINX | Kubernetes
-#   PostgreSQL | Docker | GitHub Actions | Nextcloud | Elastic Email
-```
-
-### **Full-stack Engineer** (2023)
-```python
-# Tech Stack: Next.js | Tauri | Supabase | AWS
-- Mentored 4 interns in TypeScript best practices
-- Implemented real-time data sync using EventBridge
-```
-
-## 🏆 **Achievements & Certifications**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/IELTS-8.0-0F4C81?style=for-the-badge&logo=british-council&logoColor=white" alt="IELTS 8.0"/>
-</p>
-
-```diff
-+ 🥇 Best Solution Award - 2024
-+ 🏅 Outstanding Employee - 2023
-# 📚 2x Academic Excellence Scholarship - HCMUT
-```
-
-## 📊 **GitHub Stats**
+## Core toolkit
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HThanh-how&theme=tokyonight" height="150" alt="stats graph" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HThanh-how&theme=tokyonight" height="150" alt="languages graph" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HThanh-how&theme=tokyonight" height="150" alt="commit languages graph" />
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=go,python,js,ts,postgres,mysql,redis&theme=dark" alt="Go, Python, JavaScript, TypeScript, PostgreSQL, MySQL and Redis" />
+
+**Cloud & Platform**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,cloudflare,nginx&theme=dark" alt="AWS, Docker, Kubernetes, Terraform, Ansible, Cloudflare and NGINX" />
+
+**Systems & Observability**
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,grafana,prometheus,git,githubactions&theme=dark" alt="Linux, Ubuntu, Debian, Grafana, Prometheus, Git and GitHub Actions" />
+
+</div>
+
+<details>
+<summary><strong>Infrastructure specialities</strong></summary>
+
+<br />
+
+- Virtualization: Proxmox, VMware ESXi, XCP-ng
+- Storage and backup: ZFS, TrueNAS, Ceph, MinIO, Veeam, Nextcloud
+- Networking and security: pfSense, OPNsense, MikroTik, WireGuard, Tailscale, HAProxy, Traefik
+- Data center: rack mounting, server provisioning, IPMI/iDRAC, cabling, PDU/UPS and colocation operations
+
+</details>
+
+## Engineering impact
+
+| Area | Outcome |
+|:--|:--|
+| High-frequency processing | Built low-latency order-processing services for demanding production workloads. |
+| Platform efficiency | Developed an API gateway that reduced platform consumption by **85%**. |
+| Resilience | Engineered secure, scalable storage and backup workflows across cloud and on-prem infrastructure. |
+| Team leverage | Mentored four interns in TypeScript practices and delivered real-time data synchronization with EventBridge. |
+
+## Live project telemetry
+
+<div align="center">
+  <a href="https://warpchart.dev/r/HThanh-how/HThanh-how">
+    <img src="https://warpchart.dev/api/badge?repo=HThanh-how/HThanh-how" alt="Warpchart live repository telemetry" />
+  </a>
+  <br />
+  <sub>Worldwide rank · growth velocity · live repository health</sub>
+</div>
+
+<p align="center"><a href="https://warpchart.dev/r/HThanh-how/HThanh-how"><strong>Open the live Warpchart console →</strong></a></p>
+
+<!-- Animated chart: enable after Warpchart completes the repository's first scan.
+[![HThanh-how/HThanh-how star history · Warpchart](https://warpchart.dev/api/chart?repo=HThanh-how%2FHThanh-how)](https://warpchart.dev/r/HThanh-how/HThanh-how)
+-->
+
+## GitHub at a glance
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HThanh-how&theme=tokyonight" width="100%" alt="GitHub contribution overview" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HThanh-how&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HThanh-how&theme=tokyonight" height="165" alt="GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HThanh-how&theme=tokyonight" height="165" alt="Most-used repository languages" />
 </div>
 
-<br/>
-
-<!-- GitHub Profile Summary Cards -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HThanh-how&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HThanh-how&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub contribution streak" />
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HThanh-how/HThanh-how/output/snake.svg" alt="Contribution graph animation" />
+</div>
 
-## 📫 **Connect with Me**
-<p align="left">
-  <a href="mailto:phthanh.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="http://phthanh.dev">
-    <img src="https://img.shields.io/badge/Website-0F4C81?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-  <a href="tel:+84363367489">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-</p>
+## Highlights
 
-<!-- Waving Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:0F4C81&height=120&section=footer" width="100%" alt="Footer"/>
+- Best Solution Award — 2024
+- Outstanding Employee — 2023
+- 2× Academic Excellence Scholarship — HCMUT
+- IELTS 8.0
+
+<div align="center">
+  <h3>Have an infrastructure problem worth solving?</h3>
+  <p>I'm always open to thoughtful engineering conversations and ambitious systems work.</p>
+  <a href="mailto:phthanh.dev@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-4F46E5?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Start a conversation" /></a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:4F46E5,100:F97316&height=120&section=footer" width="100%" alt="Footer" />
+</div>
