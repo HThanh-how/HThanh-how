@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:4F46E5,100:F97316&height=210&section=header&text=PHAM%20HUY%20THANH&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Backend%20%C2%B7%20Infrastructure%20%C2%B7%20Cloud&descSize=17&descAlignY=57" width="100%" alt="Pham Huy Thanh — Backend, Infrastructure and Cloud" />
+  <h1>PHAM HUY THANH 👨‍💻</h1>
+  <p><strong>Software Engineer</strong> · <strong>Backend Specialist</strong> · <strong>Infrastructure Engineer</strong></p>
+  <p><em>Building reliable systems — from API to rack.</em></p>
 </div>
 
 <div align="center">
@@ -7,14 +9,14 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=760&lines=Building+reliable+systems+that+scale;Backend+engineering+%C3%97+infrastructure;From+API+to+rack%2C+I+make+systems+run" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=667EEA&center=true&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Thanh;Backend+Developer+%F0%9F%92%BB;Infrastructure+Engineer+%F0%9F%96%A5%EF%B8%8F;Data+Center+Specialist+%F0%9F%8F%A2;Building+systems+that+scale+%F0%9F%9A%80" alt="Animated introduction" />
 </div>
 
 <div align="center">
   <a href="https://phthanh.dev"><img src="https://img.shields.io/badge/Website-phthanh.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="mailto:phthanh.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/HThanh-how/CV/releases/latest/download/Pham_Huy_Thanh_Resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-View_PDF-4F46E5?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View résumé" /></a>
-  <img src="https://komarev.com/ghpvc/?username=HThanh-how&style=for-the-badge&color=F97316&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=HThanh-how&style=for-the-badge&color=0F4C81&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
 ## Hello, I'm Thanh
@@ -110,11 +112,11 @@ Mindset   Measure first · automate repetition · keep operations boring
 - IELTS 8.0
 
 <div align="center">
-  <h3>Have an infrastructure problem worth solving?</h3>
-  <p>I'm always open to thoughtful engineering conversations and ambitious systems work.</p>
-  <a href="mailto:phthanh.dev@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-4F46E5?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Start a conversation" /></a>
+  <h3>Let's build something reliable.</h3>
+  <p>Always open to thoughtful engineering conversations and ambitious systems work.</p>
+  <a href="mailto:phthanh.dev@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-0F4C81?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Start a conversation" /></a>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:4F46E5,100:F97316&height=120&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:0F4C81&height=120&section=footer" width="100%" alt="Footer" />
 </div>
